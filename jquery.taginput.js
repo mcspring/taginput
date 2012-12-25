@@ -1,3 +1,8 @@
+/**
+ * Author: Spring MC <Heresy.MC@gmail.com>
+ * License: open-lab license
+ * This is inspired in jquery.tagInput.js plugin, see: http://roberto.open-lab.com/2010/02/10/a-delicious-javascript-tagging-input-field/
+ */
 (function($){
 
   var PluginName, PluginDefaults, TagInput;
